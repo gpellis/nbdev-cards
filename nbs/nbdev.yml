@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-cards"
+  site-url: "https://gpellis.github.io/nbdev-cards"
+  description: "Playing with nbdev."
+  repo-branch: main
+  repo-url: "https://github.com/gpellis/nbdev-cards"
